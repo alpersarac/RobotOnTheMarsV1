@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotOnTheMars", "RobotOnTheMars\RobotOnTheMars.csproj", "{1F1BA7D2-0BE1-46B9-881E-E037DAE4C19A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1BA7D2-0BE1-46B9-881E-E037DAE4C19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1BA7D2-0BE1-46B9-881E-E037DAE4C19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1BA7D2-0BE1-46B9-881E-E037DAE4C19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1BA7D2-0BE1-46B9-881E-E037DAE4C19A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {729A170B-0C8B-4EA5-B00A-C1E95B559DB7}
+	EndGlobalSection
+EndGlobal
